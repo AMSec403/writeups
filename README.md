@@ -17,6 +17,7 @@ Documentación técnica y análisis práctico de laboratorios controlados de inf
 ### DockerLabs (Hacking & CTFs)
 *   **[trust](./DockerLabs/trust/README.md)**
 *   **[tproot](./DockerLabs/tproot/README.md)**
+*   **[firsthacking](./DockerLabs/firsthacking/README.md)**
 
 ### TryHackMe
 *   *(Próximamente)*
