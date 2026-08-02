@@ -1,4 +1,4 @@
-# Resolucion de maquin: trust
+# Resolucion de maquina: trust
 
 ## Informacion general.
 
