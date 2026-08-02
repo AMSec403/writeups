@@ -1,4 +1,4 @@
-# Resolución de maquina DockerLabs: tproot
+# Resolución de maquina: tproot
 
 ## Información general.
 

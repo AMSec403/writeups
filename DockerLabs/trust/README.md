@@ -1,10 +1,10 @@
-# Resolucion de maquina DockerLabs: trust
+# Resolucion de maquin: trust
 
 ## Informacion general.
 
 * Plataforma: DockerLabs
 
-* Objetivo: Demostrar el riesgo de configuraciones inseguras en sudoers.
+* Objetivo: Demostrar el riesgoe configuraciones inseguras en sudoers.
 
 ---
 

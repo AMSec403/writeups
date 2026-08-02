@@ -1,4 +1,4 @@
-# Resolución de maquina DockerLabs: firsthacking
+# Resolución de maquina: firsthacking
 
 ## información general.
 
